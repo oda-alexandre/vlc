@@ -19,12 +19,12 @@
 
 ## INTRODUCTION
 
-Ce repository contient le fichier Dockerfile de [vlc](https://www.videolan.org/vlc/index.fr.html) pour [Docker](https://www.docker.com), mis à jour automatiquement dans le [Docker Hub](https://hub.docker.com/r/alexandreoda/vlc/) public.
+Ce repository contient le fichier Dockerfile de [vlc](https://www.videolan.org/vlc/index.fr.html) pour [docker](https://www.docker.com), mis à jour automatiquement dans le [docker hub](https://hub.docker.com/r/alexandreoda/vlc/) public.
 
 
 ## PREREQUIS
 
-Installer [Docker](https://www.docker.com)
+Installer [docker](https://www.docker.com)
 
 
 ## INSTALLATION

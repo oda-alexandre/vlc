@@ -1,25 +1,32 @@
 # VLC
 
-![vlc](https://raw.githubusercontent.com/oda-alexandre/vlc/master/img/logo-vlc.png) ![docker](https://raw.githubusercontent.com/oda-alexandre/vlc/master/img/logo-docker.png)
+[![dockeri.co](https://dockeri.co/image/alexandreoda/vlc)](https://hub.docker.com/r/alexandreoda/vlc)
 
 
 ## INDEX
 
-- [Build Docker](#BUILD)
+- [Badges](#BADGES)
 - [Introduction](#INTRODUCTION)
 - [Prerequis](#PREREQUIS)
 - [Installation](#INSTALLATION)
 - [License](#LICENSE)
 
 
-## BUILD DOCKER
+## BADGES
 
-[![vlc docker build](https://img.shields.io/docker/build/alexandreoda/vlc.svg)](https://hub.docker.com/r/alexandreoda/vlc)
+[![version](https://images.microbadger.com/badges/version/alexandreoda/vlc.svg)](https://microbadger.com/images/alexandreoda/vlc)
+[![size](https://images.microbadger.com/badges/image/alexandreoda/vlc.svg)](https://microbadger.com/images/alexandreoda/vlc")
+[![build](https://img.shields.io/docker/build/alexandreoda/vlc.svg)](https://hub.docker.com/r/alexandreoda/vlc)
+[![automated](https://img.shields.io/docker/automated/alexandreoda/vlc.svg)](https://hub.docker.com/r/alexandreoda/vlc)
 
 
 ## INTRODUCTION
 
-Ce repository contient le fichier Dockerfile de [vlc](https://www.videolan.org/vlc/index.fr.html) pour [docker](https://www.docker.com), mis à jour automatiquement dans le [docker hub](https://hub.docker.com/r/alexandreoda/vlc/) public.
+Ce repository contient le fichier Dockerfile de
+
+- [vlc](https://www.videolan.org/vlc/index.fr.html)
+
+Mis à jour automatiquement dans le [docker hub public](https://hub.docker.com/r/alexandreoda/vlc)
 
 
 ## PREREQUIS

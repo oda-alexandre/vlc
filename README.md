@@ -1,6 +1,6 @@
 # VLC
 
-[![dockeri.co](https://dockeri.co/image/alexandreoda/vlc)](https://hub.docker.com/r/alexandreoda/vlc)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/90px-VLC_Icon.svg.png>
 
 
 ## INDEX
@@ -14,10 +14,7 @@
 
 ## BADGES
 
-[![version](https://images.microbadger.com/badges/version/alexandreoda/vlc.svg)](https://microbadger.com/images/alexandreoda/vlc)
-[![size](https://images.microbadger.com/badges/image/alexandreoda/vlc.svg)](https://microbadger.com/images/alexandreoda/vlc")
-[![build](https://img.shields.io/docker/build/alexandreoda/vlc.svg)](https://hub.docker.com/r/alexandreoda/vlc)
-[![automated](https://img.shields.io/docker/automated/alexandreoda/vlc.svg)](https://hub.docker.com/r/alexandreoda/vlc)
+[![pipeline status](https://gitlab.com/oda-alexandre/vlc/badges/master/pipeline.svg)](https://gitlab.com/oda-alexandre/vlc/commits/master)
 
 
 ## INTRODUCTION

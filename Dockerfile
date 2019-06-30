@@ -9,7 +9,7 @@ apt-get update && apt-get install --no-install-recommends -y \
 sudo \
 libgl1-mesa-dri \
 libgl1-mesa-glx \
-vlc && \
+vlc
 
 RUN echo -e '\033[36;1m ******* ADD USER ******** \033[0m' && \
 useradd -d /home/${USER} -m ${USER} && \

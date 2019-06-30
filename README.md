@@ -1,6 +1,6 @@
 # VLC
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/90px-VLC_Icon.svg.png>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/90px-VLC_Icon.svg.png" width="200" height="200"/>
 
 
 ## INDEX
